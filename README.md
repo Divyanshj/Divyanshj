@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Divyansh Jain.
 
-<!--
-**Divyanshj/Divyanshj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##I am a full stack web developer and an open source enthusiast who loves to contribute to the community.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<!-- **Divyanshj/Divyanshj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started: -->
+
+- 🔭 I’m currently working on [Paathshala][https://digipaathshala.herokuapp.com/]
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
