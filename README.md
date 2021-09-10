@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Paathshala](https://digipaathshala.herokuapp.com/)
 - 🌱 I’m currently learning Data Structures And Algorithms
 - 👯 I’m looking to collaborate on web designing projects.
-- ⚡ Fun fact: Good food and travel are waht I live for !
+- ⚡ Fun fact: Good food and travel are what I live for !
 
 ## Skills:-
 
