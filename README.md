@@ -35,12 +35,14 @@
 My Portfolio - [Divyansh Jain](https://divyansh-jain-portfolio.netlify.app/)
 <br><br>
 <!-- ![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshj&hide=contribs,theme=radical) -->
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshj&show_icons=true&theme=dracula)
+![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshj&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 <br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Divyanshj/github-readme-stats&theme=gradient) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshj&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshj&locale=en&layout=compact&theme=dracula)
 
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyanshj&show_icons=true&locale=en&layout=compact" alt="ayushsagar10" /></p> -->
+<br>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Divyanshj&show_icons=true&locale=en" alt="ayushsagar10" /></p> -->
 
