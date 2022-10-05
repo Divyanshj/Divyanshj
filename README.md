@@ -1,13 +1,14 @@
 ### Hi there 👋, I'm Divyansh Jain.
 
 ## I am a full stack web developer and an open source enthusiast who loves to contribute to the community.
+### Currently I am exploring Web3/Blockchain .
 
 
 <!-- **Divyanshj/Divyanshj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on [Paathshala](https://digipaathshala.herokuapp.com/)
+- 🔭 I have worked on [Paathshala](https://digipaathshala.herokuapp.com/),[Petcare](https://pertcare.000webhostapp.com/),[Need4Red](https://need4red.000webhostapp.com/) etc.
 - 🌱 I’m currently learning Data Structures And Algorithms
 - 👯 I’m looking to collaborate on web designing projects.
 - ⚡ Fun fact: Good food and travel are what I live for !
