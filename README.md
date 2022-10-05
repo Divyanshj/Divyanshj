@@ -8,8 +8,8 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I have worked on [Paathshala](https://digipaathshala.herokuapp.com/),[Petcare](https://pertcare.000webhostapp.com/),[Need4Red](https://need4red.000webhostapp.com/) etc.
-- 🌱 I’m currently learning Data Structures And Algorithms
+- 🔭 I have worked on [Paathshala](https://digipaathshala.herokuapp.com/), [Petcare](https://pertcare.000webhostapp.com/), [Need4Red](https://need4red.000webhostapp.com/) etc.
+- 🌱 I’m currently learning Data Structures And Algorithms.
 - 👯 I’m looking to collaborate on web designing projects.
 - ⚡ Fun fact: Good food and travel are what I live for !
 
